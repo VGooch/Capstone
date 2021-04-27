@@ -34,12 +34,12 @@ Data Sources
 
 Tn.gov for state requirements and school information
 https://k-12.education.tn.gov/sde/CreateSchoolList.asp?sql_id=471474 
-https://www.tn.gov/education.html
+https://www.tn.gov/
 Bankruptcy information
-https://www.ramseysolutions.com/debt/types-of-bankruptcies
-https://www.uscourts.gov/report-name/bankruptcy-filings
+https://www.ramseysolutions.com/
+https://www.uscourts.gov/
 2015-2019 5 year estimates for Median Houshold Income
-?? Add Source
+https://www.census.gov/
 I will likely also use data from donorschoose.com.
 (there will likely be an additional data source)
 
