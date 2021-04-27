@@ -14,7 +14,7 @@ What areas in Tennessee should be targeted for adding addtional financial litera
  
 Minimum Viable Product (MVP)
 
-My MVP will show what schools and counties currently have programs implemented. It will also show the top 5 counties where I think financial literacy course should be offered and a list of 10 schools to suggest as starting points and why they were selected. 
+My MVP will show what schools and counties currently have programs implemented. It will also show the top 3 counties where I think financial literacy course should be offered and a list of 10 schools to suggest as starting points and why they were selected. 
 
 The visualizations will show a map of Tennessee’s counties and high schools in each. It will likely be interactive to zoom in and attempt to get school specific with geo locational data. The listings of school suggestions will be highlighted individually to mold the story.
 
