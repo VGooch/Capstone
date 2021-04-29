@@ -11,7 +11,7 @@ Data Sources:
 
 ## Proposal
 
-[Proposal Document](data/Valencia-Gooch-Capstone-Proposal.pdf)
+[Proposal Document](data/Valencia Gooch Capstone Proposal.pdf)
 
 ## Table Of Contents
 
