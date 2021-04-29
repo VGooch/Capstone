@@ -11,7 +11,7 @@ Data Sources:
 
 ## Proposal
 
-[Proposal Document](data/proposal.pdf)
+[Proposal Document](data/Proposal.pdf)
 
 ## Table Of Contents
 
