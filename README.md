@@ -3,11 +3,11 @@
 I was tasked with creating a capstone project that included: the compilation of data, analyzing the data, and providing actionable insights. In this project, I was tasked with exploring Tennessee's high school graduation requirements with median household income and  personal bankruptcy filings. When going through the data set I wanted to highlight trends to support an increase to Tennessee's graduation requirement for Personal Finance and target areas in which this could be done. For this project I used Excel and Python for data analysis and PowerPoint for data visualization.
 
 Data Sources:  
-[Bankruptcy Data]()  
-[Income Data]()  
-[Schools Data]()  
-[Donate Here]()  
-[More Classes Here]()  
+[Bankruptcy Data](https://www.uscourts.gov/report-name/bankruptcy-filings)  
+[Income Data](https://www.census.gov/)
+[Schools Data](https://k-12.education.tn.gov/sde/)  
+[Donate Here](https://www.donorschoose.org/donors/search.html?state=TN&cityName=Memphis&countyName=Shelbycounty&centerLat=35.1495&centerLng=-90.0490&includeNearbyLocations=true&gradeType=4)  
+[More Classes Here](https://www.ramseysolutions.com/)  
 
 ## Proposal
 
@@ -38,8 +38,8 @@ Just like every good war we can't foget to skip over the battles, because they t
 
 ## Tools Used
 
-* Python
- geospatial environment
+* Python  
+      geospatial environment
 * Excel
 * PowerPoint
 
