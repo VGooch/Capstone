@@ -11,7 +11,7 @@ Data Sources:
 
 ## Proposal
 
-[Proposal Document]()
+[Proposal Document](data/Valencia-Gooch-Capstone-Proposal.pdf)
 
 ## Table Of Contents
 
@@ -39,7 +39,7 @@ Just like every good war we can't foget to skip over the battles, because they t
 ## Tools Used
 
 * Python  
-> >geospatial environment
+  * geospatial environment
 * Excel
 * PowerPoint
 
