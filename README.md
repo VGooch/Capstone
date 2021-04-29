@@ -9,7 +9,7 @@ Data Sources:
 [Donate Here]
 [More Classes Here]
 
-### Proposal
+## Proposal
 
 [Proposal Document]
 
@@ -43,7 +43,7 @@ Just like every good war we can't foget to skip over the battles, because they t
 * Excel
 * PowerPoint
 
-### Parameters
+## Parameters
 
 Limited Analysis to Public and Private High Schools
 Excluded Home Schools, Homebound Schools, and Public Charter Schools
