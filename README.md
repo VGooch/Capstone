@@ -4,7 +4,7 @@ I was tasked with creating a capstone project that included: the compilation of 
 
 Data Sources:  
 [Bankruptcy Data](https://www.uscourts.gov/report-name/bankruptcy-filings)  
-[Income Data](https://www.census.gov/)
+[Income Data](https://www.census.gov/)  
 [Schools Data](https://k-12.education.tn.gov/sde/)  
 [Donate Here](https://www.donorschoose.org/donors/search.html?state=TN&cityName=Memphis&countyName=Shelbycounty&centerLat=35.1495&centerLng=-90.0490&includeNearbyLocations=true&gradeType=4)  
 [More Classes Here](https://www.ramseysolutions.com/)  
